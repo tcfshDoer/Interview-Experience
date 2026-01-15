@@ -12,7 +12,6 @@
 3. **Waiting Area:** All candidates waited in a shared office space. (於辦公區集體候考)
 4. **Interview Format:** Candidates were called individually to small booths for either:
    - **Video Interview** (視訊面試)
-   - **Face-to-Face Interview** with the hiring manager. (與主管現場面試)
 
 #### 💡 Key Insights (面試心得)
 - **Job Scope:** Focuses on software proficiency, troubleshooting, and internal user training. (工作重點在於軟體熟練度、故障排除與教育訓練)
