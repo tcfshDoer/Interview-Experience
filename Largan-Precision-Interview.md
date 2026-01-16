@@ -1,9 +1,14 @@
  大立光 (Largan Precision) - 製程工程師面試紀錄
+
 💰 職位待遇與工作環境 (Compensation & Environment)
 基本薪資 (Base Salary): NT$ 35,000
+
 工作時間 (Work Hours): 07:50 - 20:50 (每日 13 小時，高強度長工時)
+
 休假制度 (Off Days): 每月僅排休 5 天 (高壓排班制)
+
 環境要求: 需配合產線與技術需求，著重於自動化與數據監控。
+
 🧩 技術面試情節：監控系統的效率挑戰 (The Efficiency Challenge)
 面試官透過開發一套「機台數據監控系統」的情境，連續追問了三個核心技術問題：
 1. 數據結構的抉擇：List vs. Array
