@@ -3,7 +3,7 @@
 #### 📝 Job Details & Work Conditions (職位與工時)
 - **Position:** IM Engineer (Grade 28)
 - **Shift Hours:** 19:00 - 07:00 (Night Shift / 夜班)
-- **Salary:** NT$ 38,000 / month
+- **Salary:** NT$ 42,000 / month
 - **Career Path:** According to the manager, entry at **Grade 28** has a ceiling at **Grade 29** for this specific track. (職等晉升：28職等入職，最高晉升至29職等)
 
 #### 👣 Interview Process (面試流程)
